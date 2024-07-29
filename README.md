@@ -16,3 +16,4 @@ To build the project, run:
 
 ```bash
 make
+./build/os_simulation_project
